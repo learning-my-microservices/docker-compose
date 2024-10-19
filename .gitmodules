@@ -1,0 +1,29 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:learning-my-microservices/api-gateway.git
+	branch = main
+
+[submodule "account-service"]
+	path = account-service
+	url = git@github.com:learning-my-microservices/account-service.git
+	branch = main
+
+[submodule "background-service"]
+	path = background-service
+	url = git@github.com:learning-my-microservices/background-service.git
+	branch = main
+
+[submodule "logger-service"]
+	path = logger-service
+	url = git@github.com:learning-my-microservices/logger-service.git
+	branch = main
+
+[submodule "schedule-service"]
+	path = schedule-service
+	url = git@github.com:learning-my-microservices/schedule-service.git
+	branch = main
+
+[submodule "notification-service"]
+	path = notification-service
+	url = git@github.com:learning-my-microservices/notification-service.git
+	branch = main
